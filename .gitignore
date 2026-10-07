@@ -18,6 +18,7 @@ tmp/
 temp/
 *.tmp
 *.bak
+colabel_export_*/
 
 # ---- 构建产物 ----
 build/
@@ -62,3 +63,8 @@ pnpm-debug.log*
 data/raw/
 *.sqlite
 *.db
+
+# ---- 实现细节（不公开）----
+# 所有 detail/ 目录内容均不公开，仅保留各自的 README.md 说明文件
+**/detail/**
+!**/detail/README.md

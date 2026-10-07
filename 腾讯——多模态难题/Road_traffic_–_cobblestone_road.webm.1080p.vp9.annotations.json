@@ -1,0 +1,217 @@
+{
+  "version": 1,
+  "video": "C:\\Users\\15608\\Desktop\\Co-Labeling\\腾讯——多模态难题\\Road_traffic_–_cobblestone_road.webm.1080p.vp9.webm",
+  "fps": 25.0,
+  "width": 1920,
+  "height": 1080,
+  "frame_count": 2653,
+  "marks": [
+    {
+      "frame": 160,
+      "time": 6.4,
+      "hold": 1.0,
+      "shapes": [
+        {
+          "type": "rect",
+          "points": [
+            [
+              270.0,
+              372.0
+            ],
+            [
+              1101.0,
+              771.0
+            ]
+          ],
+          "color": "#FF3B30",
+          "width": 4,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "frame": 927,
+      "time": 37.08,
+      "hold": 1.0,
+      "shapes": [
+        {
+          "type": "rect",
+          "points": [
+            [
+              748.5,
+              361.5
+            ],
+            [
+              1177.5,
+              658.5
+            ]
+          ],
+          "color": "#FF3B30",
+          "width": 4,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "frame": 1161,
+      "time": 46.44,
+      "hold": 1.0,
+      "shapes": [
+        {
+          "type": "rect",
+          "points": [
+            [
+              327.0,
+              139.5
+            ],
+            [
+              1246.5,
+              751.5
+            ]
+          ],
+          "color": "#FF3B30",
+          "width": 4,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "frame": 1232,
+      "time": 49.28,
+      "hold": 1.0,
+      "shapes": [
+        {
+          "type": "rect",
+          "points": [
+            [
+              268.5,
+              213.0
+            ],
+            [
+              1141.5,
+              825.0
+            ]
+          ],
+          "color": "#FF3B30",
+          "width": 4,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "frame": 1338,
+      "time": 53.52,
+      "hold": 1.0,
+      "shapes": [
+        {
+          "type": "rect",
+          "points": [
+            [
+              210.0,
+              273.0
+            ],
+            [
+              1153.5,
+              841.5
+            ]
+          ],
+          "color": "#FF3B30",
+          "width": 4,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "frame": 2254,
+      "time": 90.16,
+      "hold": 1.0,
+      "shapes": [
+        {
+          "type": "rect",
+          "points": [
+            [
+              727.5,
+              384.0
+            ],
+            [
+              1180.5,
+              649.5
+            ]
+          ],
+          "color": "#FF3B30",
+          "width": 4,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "frame": 2345,
+      "time": 93.8,
+      "hold": 1.0,
+      "shapes": [
+        {
+          "type": "rect",
+          "points": [
+            [
+              609.0,
+              267.0
+            ],
+            [
+              1203.0,
+              705.0
+            ]
+          ],
+          "color": "#FF3B30",
+          "width": 4,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "frame": 2469,
+      "time": 98.76,
+      "hold": 1.0,
+      "shapes": [
+        {
+          "type": "rect",
+          "points": [
+            [
+              675.0,
+              316.5
+            ],
+            [
+              1201.5,
+              661.5
+            ]
+          ],
+          "color": "#FF3B30",
+          "width": 4,
+          "label": ""
+        }
+      ]
+    },
+    {
+      "frame": 2536,
+      "time": 101.44,
+      "hold": 1.0,
+      "shapes": [
+        {
+          "type": "rect",
+          "points": [
+            [
+              553.5,
+              322.5
+            ],
+            [
+              1129.5,
+              708.0
+            ]
+          ],
+          "color": "#FF3B30",
+          "width": 4,
+          "label": ""
+        }
+      ]
+    }
+  ]
+}
